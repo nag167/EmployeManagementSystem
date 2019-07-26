@@ -1,0 +1,33 @@
+
+JAMA Software -- Requirements Management
+Confluence -- Knowledge Management
+JIRA
+BitBucket -- 
+
+
+React is faster than angular
+DOM
+React have 2 DOM. 1) real 2)virtual
+with the help of virtual dom it will find which element it has to manipulate
+(find shortest path to reach out the element)
+
+https://www.npmjs.com/package/create-react-app  //site
+npm i -g create-react-app
+npm uninstall create-react-app
+npx create-react-app my-app
+
+
+React js is a library of Javascript
+
+
+
+Need of webservices and consuming webservices
+	exchange of data through different applications(amazon and 	payment gateway)
+Amadeus Labs buys online flight details and give information to 
+
+		REST,SOAP
+
+	2 ways to implement
+1) monolitic 2)microservices(thought was given by netflix)
+
+
